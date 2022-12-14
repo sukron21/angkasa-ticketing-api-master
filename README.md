@@ -142,16 +142,19 @@
 </ul>
 <hr />
 
-### For More Information
-<p>My Social media account:</p> <br />
-<div>
+## Authors
 
-<div>
-<img height="25" width="25" src='https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667' alt='gmail-icon'></img><span> : rahmatfurqon0@gmail.com</span>
-</div>
+Contributors names and contact info:
 
-<div align='center'>
-:copyright: Rahmat Furqon, 2022
-</div>
+1. Rahmat Furqon
+
+- [Application](https://angkasa-ticketing.vercel.app/)
+
+- [Telegram Chat App](https://github.com/sukron21/angkasa-ticketing-app-master)
+
+- [Telegram Chat API](https://github.com/sukron21/angkasa-ticketing-api-master)
+
+- [Linkedin](www.linkedin.com/in/furqon-rahmat)
+
 
 
