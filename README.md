@@ -152,7 +152,7 @@ Contributors names and contact info:
 
 - [Angkasa Frontend](https://github.com/sukron21/angkasa-ticketing-app-master)
 
-- [Telegram Backend](https://github.com/sukron21/angkasa-ticketing-api-master)
+- [Angkasa Backend](https://github.com/sukron21/angkasa-ticketing-api-master)
 
 - [Linkedin](www.linkedin.com/in/furqon-rahmat)
 
