@@ -128,9 +128,6 @@
 </details>
 <hr />
 
-### Demo Application
-<p>Visit this link for app demo <a href='https://angkasa-ticketing.vercel.app/'>Ankasa Ticketing</a></p>
-<hr />
 
 ### Contributor
 <ul>
